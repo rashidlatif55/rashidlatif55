@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rashid Latif
 #### I am an iOS developer
 
-![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidlatif55&include_all_commits=true&show_icons=true&count_private=true&range=2018-01)
+![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidlatif55&include_all_commits=true&count_private=true&range=2018-01)
 
 
 Welcome to my GitHub profile, I’m an experienced iOS developer. Here you will find a collection of my projects and contributions to the iOS development community. I have a strong background in Swift and Objective-C programming, as well as experience with various iOS frameworks such as UIKit and Core Data. My passion for creating intuitive, user-friendly interfaces and my attention to detail make me a valuable asset to any iOS development team. Feel free to explore my projects and don't hesitate to reach out if you have any questions or opportunities for collaboration.
